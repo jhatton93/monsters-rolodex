@@ -20,3 +20,8 @@ My goal was to learn about React and ReactDOM, while creating an application.
 <ul>
   <li>I originally created it with class components before I switched over to function components. I should have uploaded to GitHub to show the differences between the two.</li>
 </ul>
+
+SMALL DEMO:
+
+https://user-images.githubusercontent.com/79428391/167278909-e3d61b77-2fe2-4903-899c-be9b1e2e69cf.mp4
+
